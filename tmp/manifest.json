@@ -1,0 +1,762 @@
+{
+  "atelier": [
+    {
+      "idx": 1,
+      "file": "/img/atelier-1.webp",
+      "w": 1300,
+      "h": 1039
+    },
+    {
+      "idx": 2,
+      "file": "/img/atelier-2.webp",
+      "w": 1100,
+      "h": 1100
+    },
+    {
+      "idx": 3,
+      "file": "/img/atelier-3.webp",
+      "w": 866,
+      "h": 1390
+    },
+    {
+      "idx": 4,
+      "file": "/img/atelier-4.webp",
+      "w": 1600,
+      "h": 1157
+    },
+    {
+      "idx": 5,
+      "file": "/img/atelier-5.webp",
+      "w": 1600,
+      "h": 1600
+    },
+    {
+      "idx": 6,
+      "file": "/img/atelier-6.webp",
+      "w": 819,
+      "h": 1024
+    },
+    {
+      "idx": 7,
+      "file": "/img/atelier-7.webp",
+      "w": 1200,
+      "h": 800
+    },
+    {
+      "idx": 8,
+      "file": "/img/atelier-8.webp",
+      "w": 1440,
+      "h": 1080
+    }
+  ],
+  "embroidery": [
+    {
+      "idx": 1,
+      "file": "/img/embroidery-1.webp",
+      "w": 1300,
+      "h": 957
+    },
+    {
+      "idx": 2,
+      "file": "/img/embroidery-2.webp",
+      "w": 1376,
+      "h": 768
+    },
+    {
+      "idx": 3,
+      "file": "/img/embroidery-3.webp",
+      "w": 768,
+      "h": 1344
+    },
+    {
+      "idx": 4,
+      "file": "/img/embroidery-4.webp",
+      "w": 1600,
+      "h": 987
+    },
+    {
+      "idx": 5,
+      "file": "/img/embroidery-5.webp",
+      "w": 768,
+      "h": 1344
+    },
+    {
+      "idx": 6,
+      "file": "/img/embroidery-6.webp",
+      "w": 1024,
+      "h": 769
+    },
+    {
+      "idx": 7,
+      "file": "/img/embroidery-7.webp",
+      "w": 3000,
+      "h": 4499
+    },
+    {
+      "idx": 8,
+      "file": "/img/embroidery-8.webp",
+      "w": 1344,
+      "h": 768
+    },
+    {
+      "idx": 9,
+      "file": "/img/embroidery-9.webp",
+      "w": 768,
+      "h": 1344
+    },
+    {
+      "idx": 10,
+      "file": "/img/embroidery-10.webp",
+      "w": 1300,
+      "h": 866
+    }
+  ],
+  "fabric": [
+    {
+      "idx": 1,
+      "file": "/img/fabric-1.webp",
+      "w": 1360,
+      "h": 768
+    },
+    {
+      "idx": 2,
+      "file": "/img/fabric-2.webp",
+      "w": 3000,
+      "h": 4500
+    },
+    {
+      "idx": 3,
+      "file": "/img/fabric-3.webp",
+      "w": 2000,
+      "h": 2000
+    },
+    {
+      "idx": 4,
+      "file": "/img/fabric-4.webp",
+      "w": 1251,
+      "h": 1390
+    },
+    {
+      "idx": 5,
+      "file": "/img/fabric-5.webp",
+      "w": 1200,
+      "h": 1504
+    },
+    {
+      "idx": 6,
+      "file": "/img/fabric-6.webp",
+      "w": 1360,
+      "h": 768
+    },
+    {
+      "idx": 7,
+      "file": "/img/fabric-7.webp",
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "idx": 8,
+      "file": "/img/fabric-8.webp",
+      "w": 3000,
+      "h": 2143
+    }
+  ],
+  "hero": [
+    {
+      "idx": 1,
+      "file": "/img/hero-1.webp",
+      "w": 800,
+      "h": 1200
+    },
+    {
+      "idx": 2,
+      "file": "/img/hero-2.webp",
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "idx": 3,
+      "file": "/img/hero-3.webp",
+      "w": 768,
+      "h": 1365
+    },
+    {
+      "idx": 4,
+      "file": "/img/hero-4.webp",
+      "w": 1127,
+      "h": 1400
+    },
+    {
+      "idx": 5,
+      "file": "/img/hero-5.webp",
+      "w": 800,
+      "h": 1200
+    },
+    {
+      "idx": 6,
+      "file": "/img/hero-6.webp",
+      "w": 1300,
+      "h": 954
+    },
+    {
+      "idx": 7,
+      "file": "/img/hero-7.webp",
+      "w": 1782,
+      "h": 1140
+    },
+    {
+      "idx": 8,
+      "file": "/img/hero-8.webp",
+      "w": 1707,
+      "h": 2560
+    },
+    {
+      "idx": 9,
+      "file": "/img/hero-9.webp",
+      "w": 1024,
+      "h": 1536
+    },
+    {
+      "idx": 10,
+      "file": "/img/hero-10.webp",
+      "w": 800,
+      "h": 1198
+    }
+  ],
+  "lifestyle": [
+    {
+      "idx": 1,
+      "file": "/img/lifestyle-1.webp",
+      "w": 1300,
+      "h": 1040
+    },
+    {
+      "idx": 2,
+      "file": "/img/lifestyle-2.webp",
+      "w": 1600,
+      "h": 1200
+    },
+    {
+      "idx": 3,
+      "file": "/img/lifestyle-3.webp",
+      "w": 1067,
+      "h": 1700
+    },
+    {
+      "idx": 4,
+      "file": "/img/lifestyle-4.webp",
+      "w": 767,
+      "h": 1390
+    },
+    {
+      "idx": 5,
+      "file": "/img/lifestyle-5.webp",
+      "w": 1500,
+      "h": 2250
+    },
+    {
+      "idx": 6,
+      "file": "/img/lifestyle-6.webp",
+      "w": 960,
+      "h": 1200
+    },
+    {
+      "idx": 7,
+      "file": "/img/lifestyle-7.webp",
+      "w": 1300,
+      "h": 956
+    },
+    {
+      "idx": 8,
+      "file": "/img/lifestyle-8.webp",
+      "w": 1000,
+      "h": 1252
+    },
+    {
+      "idx": 9,
+      "file": "/img/lifestyle-9.webp",
+      "w": 1200,
+      "h": 800
+    },
+    {
+      "idx": 10,
+      "file": "/img/lifestyle-10.webp",
+      "w": 1600,
+      "h": 1161
+    }
+  ],
+  "men_hoodie": [
+    {
+      "idx": 1,
+      "file": "/img/men_hoodie-1.webp",
+      "w": 1300,
+      "h": 948
+    },
+    {
+      "idx": 2,
+      "file": "/img/men_hoodie-2.webp",
+      "w": 1200,
+      "h": 1200
+    },
+    {
+      "idx": 3,
+      "file": "/img/men_hoodie-3.webp",
+      "w": 1600,
+      "h": 1167
+    },
+    {
+      "idx": 4,
+      "file": "/img/men_hoodie-4.webp",
+      "w": 1500,
+      "h": 1101
+    },
+    {
+      "idx": 5,
+      "file": "/img/men_hoodie-5.webp",
+      "w": 800,
+      "h": 1200
+    },
+    {
+      "idx": 6,
+      "file": "/img/men_hoodie-6.webp",
+      "w": 1300,
+      "h": 1390
+    },
+    {
+      "idx": 7,
+      "file": "/img/men_hoodie-7.webp",
+      "w": 1200,
+      "h": 1200
+    },
+    {
+      "idx": 8,
+      "file": "/img/men_hoodie-8.webp",
+      "w": 1600,
+      "h": 2000
+    }
+  ],
+  "men_jacket": [
+    {
+      "idx": 1,
+      "file": "/img/men_jacket-1.webp",
+      "w": 1200,
+      "h": 1500
+    },
+    {
+      "idx": 2,
+      "file": "/img/men_jacket-2.webp",
+      "w": 1886,
+      "h": 3000
+    },
+    {
+      "idx": 3,
+      "file": "/img/men_jacket-3.webp",
+      "w": 1920,
+      "h": 1280
+    },
+    {
+      "idx": 4,
+      "file": "/img/men_jacket-4.webp",
+      "w": 1500,
+      "h": 840
+    },
+    {
+      "idx": 5,
+      "file": "/img/men_jacket-5.webp",
+      "w": 2829,
+      "h": 4244
+    },
+    {
+      "idx": 6,
+      "file": "/img/men_jacket-6.webp",
+      "w": 736,
+      "h": 1104
+    },
+    {
+      "idx": 7,
+      "file": "/img/men_jacket-7.webp",
+      "w": 1200,
+      "h": 900
+    },
+    {
+      "idx": 8,
+      "file": "/img/men_jacket-8.webp",
+      "w": 1566,
+      "h": 2349
+    }
+  ],
+  "men_shirt": [
+    {
+      "idx": 1,
+      "file": "/img/men_shirt-1.webp",
+      "w": 1000,
+      "h": 1000
+    },
+    {
+      "idx": 2,
+      "file": "/img/men_shirt-2.webp",
+      "w": 1536,
+      "h": 1226
+    },
+    {
+      "idx": 3,
+      "file": "/img/men_shirt-3.webp",
+      "w": 2048,
+      "h": 1640
+    },
+    {
+      "idx": 4,
+      "file": "/img/men_shirt-4.webp",
+      "w": 867,
+      "h": 1390
+    },
+    {
+      "idx": 5,
+      "file": "/img/men_shirt-5.webp",
+      "w": 1600,
+      "h": 2400
+    },
+    {
+      "idx": 6,
+      "file": "/img/men_shirt-6.webp",
+      "w": 800,
+      "h": 1200
+    },
+    {
+      "idx": 7,
+      "file": "/img/men_shirt-7.webp",
+      "w": 1320,
+      "h": 1320
+    },
+    {
+      "idx": 8,
+      "file": "/img/men_shirt-8.webp",
+      "w": 736,
+      "h": 1104
+    }
+  ],
+  "men_tee": [
+    {
+      "idx": 1,
+      "file": "/img/men_tee-1.webp",
+      "w": 992,
+      "h": 992
+    },
+    {
+      "idx": 2,
+      "file": "/img/men_tee-2.webp",
+      "w": 867,
+      "h": 1300
+    },
+    {
+      "idx": 3,
+      "file": "/img/men_tee-3.webp",
+      "w": 736,
+      "h": 1188
+    },
+    {
+      "idx": 4,
+      "file": "/img/men_tee-4.webp",
+      "w": 928,
+      "h": 1152
+    },
+    {
+      "idx": 5,
+      "file": "/img/men_tee-5.webp",
+      "w": 800,
+      "h": 1156
+    },
+    {
+      "idx": 6,
+      "file": "/img/men_tee-6.webp",
+      "w": 2268,
+      "h": 2880
+    },
+    {
+      "idx": 7,
+      "file": "/img/men_tee-7.webp",
+      "w": 880,
+      "h": 1100
+    },
+    {
+      "idx": 8,
+      "file": "/img/men_tee-8.webp",
+      "w": 992,
+      "h": 992
+    },
+    {
+      "idx": 9,
+      "file": "/img/men_tee-9.webp",
+      "w": 880,
+      "h": 1168
+    },
+    {
+      "idx": 10,
+      "file": "/img/men_tee-10.webp",
+      "w": 1200,
+      "h": 802
+    }
+  ],
+  "sweatshirt": [
+    {
+      "idx": 1,
+      "file": "/img/sweatshirt-1.webp",
+      "w": 720,
+      "h": 1279
+    },
+    {
+      "idx": 2,
+      "file": "/img/sweatshirt-2.webp",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "idx": 3,
+      "file": "/img/sweatshirt-3.webp",
+      "w": 1998,
+      "h": 2997
+    },
+    {
+      "idx": 4,
+      "file": "/img/sweatshirt-4.webp",
+      "w": 980,
+      "h": 1470
+    },
+    {
+      "idx": 5,
+      "file": "/img/sweatshirt-5.webp",
+      "w": 1080,
+      "h": 1080
+    },
+    {
+      "idx": 6,
+      "file": "/img/sweatshirt-6.webp",
+      "w": 1120,
+      "h": 1119
+    },
+    {
+      "idx": 7,
+      "file": "/img/sweatshirt-7.webp",
+      "w": 720,
+      "h": 1279
+    },
+    {
+      "idx": 8,
+      "file": "/img/sweatshirt-8.webp",
+      "w": 1920,
+      "h": 1080
+    }
+  ],
+  "women_hoodie": [
+    {
+      "idx": 1,
+      "file": "/img/women_hoodie-1.webp",
+      "w": 2560,
+      "h": 2560
+    },
+    {
+      "idx": 2,
+      "file": "/img/women_hoodie-2.webp",
+      "w": 1600,
+      "h": 2001
+    },
+    {
+      "idx": 3,
+      "file": "/img/women_hoodie-3.webp",
+      "w": 1280,
+      "h": 720
+    },
+    {
+      "idx": 4,
+      "file": "/img/women_hoodie-4.webp",
+      "w": 769,
+      "h": 1280
+    },
+    {
+      "idx": 5,
+      "file": "/img/women_hoodie-5.webp",
+      "w": 1600,
+      "h": 2000
+    },
+    {
+      "idx": 6,
+      "file": "/img/women_hoodie-6.webp",
+      "w": 3412,
+      "h": 3412
+    },
+    {
+      "idx": 7,
+      "file": "/img/women_hoodie-7.webp",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "idx": 8,
+      "file": "/img/women_hoodie-8.webp",
+      "w": 3200,
+      "h": 1600
+    }
+  ],
+  "women_jacket": [
+    {
+      "idx": 1,
+      "file": "/img/women_jacket-1.webp",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "idx": 2,
+      "file": "/img/women_jacket-2.webp",
+      "w": 800,
+      "h": 1070
+    },
+    {
+      "idx": 3,
+      "file": "/img/women_jacket-3.webp",
+      "w": 6000,
+      "h": 3376
+    },
+    {
+      "idx": 4,
+      "file": "/img/women_jacket-4.webp",
+      "w": 780,
+      "h": 1170
+    },
+    {
+      "idx": 5,
+      "file": "/img/women_jacket-5.webp",
+      "w": 1000,
+      "h": 1600
+    },
+    {
+      "idx": 6,
+      "file": "/img/women_jacket-6.webp",
+      "w": 1600,
+      "h": 1167
+    },
+    {
+      "idx": 7,
+      "file": "/img/women_jacket-7.webp",
+      "w": 1701,
+      "h": 1134
+    },
+    {
+      "idx": 8,
+      "file": "/img/women_jacket-8.webp",
+      "w": 1601,
+      "h": 2000
+    }
+  ],
+  "women_shirt": [
+    {
+      "idx": 1,
+      "file": "/img/women_shirt-1.webp",
+      "w": 1582,
+      "h": 1977
+    },
+    {
+      "idx": 2,
+      "file": "/img/women_shirt-2.webp",
+      "w": 2880,
+      "h": 1620
+    },
+    {
+      "idx": 3,
+      "file": "/img/women_shirt-3.webp",
+      "w": 1582,
+      "h": 1978
+    },
+    {
+      "idx": 4,
+      "file": "/img/women_shirt-4.webp",
+      "w": 1320,
+      "h": 1980
+    },
+    {
+      "idx": 5,
+      "file": "/img/women_shirt-5.webp",
+      "w": 1080,
+      "h": 1080
+    },
+    {
+      "idx": 6,
+      "file": "/img/women_shirt-6.webp",
+      "w": 980,
+      "h": 1410
+    },
+    {
+      "idx": 7,
+      "file": "/img/women_shirt-7.webp",
+      "w": 2500,
+      "h": 3333
+    },
+    {
+      "idx": 8,
+      "file": "/img/women_shirt-8.webp",
+      "w": 1582,
+      "h": 1978
+    }
+  ],
+  "women_tee": [
+    {
+      "idx": 1,
+      "file": "/img/women_tee-1.webp",
+      "w": 975,
+      "h": 1390
+    },
+    {
+      "idx": 2,
+      "file": "/img/women_tee-2.webp",
+      "w": 866,
+      "h": 1390
+    },
+    {
+      "idx": 3,
+      "file": "/img/women_tee-3.webp",
+      "w": 2048,
+      "h": 2048
+    },
+    {
+      "idx": 4,
+      "file": "/img/women_tee-4.webp",
+      "w": 1170,
+      "h": 1465
+    },
+    {
+      "idx": 5,
+      "file": "/img/women_tee-5.webp",
+      "w": 1127,
+      "h": 1400
+    },
+    {
+      "idx": 6,
+      "file": "/img/women_tee-6.webp",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "idx": 7,
+      "file": "/img/women_tee-7.webp",
+      "w": 1560,
+      "h": 2080
+    },
+    {
+      "idx": 8,
+      "file": "/img/women_tee-8.webp",
+      "w": 1300,
+      "h": 956
+    },
+    {
+      "idx": 9,
+      "file": "/img/women_tee-9.webp",
+      "w": 896,
+      "h": 1200
+    },
+    {
+      "idx": 10,
+      "file": "/img/women_tee-10.webp",
+      "w": 1600,
+      "h": 1239
+    }
+  ]
+}
